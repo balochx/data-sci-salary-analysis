@@ -24,6 +24,7 @@ The data we are using for our model was scrapped from Glassdoor using the keywor
  - - Pandas
  - - Seaborn
  - Chromedriver
+ - Selenium
  - NLTK for WordCloud
 
 ---
