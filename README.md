@@ -32,5 +32,3 @@ The data we are using for our model was scrapped from Glassdoor using the keywor
 https://bit.ly/3EE6mwn
 - Readme formatting https://bit.ly/31fyico
 - Data Science tutorials from YouTube
-
-***from the students of University of Karachi.***
